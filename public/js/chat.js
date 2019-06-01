@@ -94,7 +94,7 @@ $messageForm.addEventListener('submit', (e) => {
 })
 
 socket.on('roomData', ({ room, users}) => {
-    // console.log(room)
+    // console.log(room)he
     // console.log(users)
 })
 
